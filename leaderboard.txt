@@ -1,3 +1,5 @@
+#Before playing/starting to play a game please delete this data, if you want you data stored as a first data of game
+
 Amol:80
 Jidnyasa:70
 ABC:100
